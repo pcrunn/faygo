@@ -1,0 +1,7 @@
+name: Faygo
+version: 1.0
+author: pcrunn
+main: me.pcrunn.faygo.FaygoPlugin
+depend:
+  - cDatabaseClient
+  - ProtocolLib
